@@ -1,0 +1,7 @@
+
+Msquid:S1481"0Remove this unused "placeHolder" local variable.(æÄÛ8¥¦Ï’.
+rsquid:S1215="TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¬‹ûÏ’.
+\squid:S1854"?Remove this useless assignment to local variable "placeHolder".(æÄÛ8¥¦Ï’.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(èı·8¦ë¦Ñ’.
+Nsquid:S1172"+Remove this unused method parameter "name".(¸¿ªñûÿÿÿÿ8²­¼Ï’.
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÇÊ¹Ü8¬‹ûÏ’.

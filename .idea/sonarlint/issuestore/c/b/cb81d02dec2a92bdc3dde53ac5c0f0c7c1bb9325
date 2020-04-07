@@ -1,0 +1,8 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÚÄÂêùÿÿÿÿ8à¥–Ô’.
+Xsquid:S1610"5Convert the abstract class "Human" into an interface.(ÚÄÂêùÿÿÿÿ8à¥–Ô’.
+Jsquid:S1172	",Remove this unused method parameter "human".(ŞüÂ¾8„Ë™Ô’.
+Osquid:S1172",Remove this unused method parameter "human".(ÁŞ•“úÿÿÿÿ8ÎšÔ’.
+Osquid:S1172",Remove this unused method parameter "human".(ØÑî¥øÿÿÿÿ8ÎšÔ’.
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÚÄÂêùÿÿÿÿ8à¥–Ô’.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(çá8ï¤…Ô’.
